@@ -1,5 +1,8 @@
 #![allow(dead_code)]
 extern crate yaml_rust;
+extern crate toml;
+
+mod new_lib;
 
 pub use yaml_rust::Yaml;
 

@@ -7,4 +7,5 @@ repository = "https://github.com/azdle/rust-frontmatter"
 license = "MIT/Apache-2.0"
 
 [dependencies]
+toml = "0.5.8"
 yaml-rust = "0.4"
